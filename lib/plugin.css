@@ -13,6 +13,7 @@
   color: #677584;
   background: #edf5fd;
   outline: 0; /* reset for :focus */
+  user-select: none;
 }
 
 .draftJsMentionPlugin__mention__29BEd:active {
@@ -29,7 +30,7 @@
 }
 
 .draftJsMentionPlugin__mentionSuggestionsEntryFocused__3LcTd {
-  background-color: #e6f3ff;
+  background-color: #EBEBEB;
 }
 
 .draftJsMentionPlugin__mentionSuggestionsEntryText__3Jobq {
@@ -48,6 +49,13 @@
   height: 30px;
   border-radius: 16px;
   vertical-align: middle;
+}
+.draftJsMentionPlugin__PointTitle__RX1haWw{
+  display: block;
+  font-size: 12px;
+  color: #A5A5A5;
+  pointer-events: none;
+   user-select: none;
 }
 .draftJsMentionPlugin__mentionSuggestions__2DWjA {
   border: 1px solid #eee;
