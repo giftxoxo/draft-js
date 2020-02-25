@@ -9,6 +9,10 @@
   text-decoration: none;
 }
 
+.draftJsMentionPlugin__mentionMainComponent__RX1haWw{
+  color: #000;
+}
+
 .draftJsMentionPlugin__mention__29BEd:hover, .draftJsMentionPlugin__mention__29BEd:focus {
   color: #677584;
   background: #edf5fd;
@@ -50,13 +54,6 @@
   border-radius: 16px;
   vertical-align: middle;
 }
-.draftJsMentionPlugin__PointTitle__RX1haWw{
-  display: block;
-  font-size: 12px;
-  color: #A5A5A5;
-  pointer-events: none;
-   user-select: none;
-}
 .draftJsMentionPlugin__mentionSuggestions__2DWjA {
   border: 1px solid #eee;
   margin-top: 0.4em;
@@ -83,4 +80,23 @@
   display: block;
   font-size: 12px;
   color: #c0c0c0
+}
+.draftJsMentionPlugin__RemaingBalance__RX2habB2{
+  color: #EF2929;
+  text-align: center;
+  display: inline-block;
+}
+.draftJsMentionPlugin__PointTitle__RX2habA2{
+  text-align: center;
+  font-size: 12px;
+  color: #A5A5A5;
+  pointer-events: none;
+  cursor: default;
+  border-bottom: 1px solid #a5a5a5;
+}
+#mention-option-3eld-0{
+  cursor: default;
+}
+#mention-option-3eld-0:hover{
+  background-color: #fff;
 }
