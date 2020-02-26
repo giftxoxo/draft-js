@@ -45,6 +45,7 @@
   text-overflow: ellipsis;
   font-size: 0.8em;
   vertical-align: middle;
+  font-size: 14px;
 }
 
 .draftJsMentionPlugin__mentionSuggestionsEntryAvatar__1xgA9 {
@@ -92,7 +93,6 @@
   color: #A5A5A5;
   pointer-events: none;
   cursor: default;
-  border-bottom: 1px solid #a5a5a5;
 }
 #mention-option-3eld-0{
   cursor: default;
